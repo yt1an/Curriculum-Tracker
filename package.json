@@ -16,8 +16,12 @@
   "license": "ISC",
   "author": "Kristian Dela Torre",
   "type": "module",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^42.4.0"
   }
 }
