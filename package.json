@@ -1,0 +1,23 @@
+{
+  "name": "curriculum-tracker",
+  "version": "1.0.0",
+  "description": "A desktop app that tracks a degree program's curriculum",
+  "keywords": [
+    "tracker"
+  ],
+  "homepage": "https://github.com/yt1an/Curriculum-Tracker#readme",
+  "bugs": {
+    "url": "https://github.com/yt1an/Curriculum-Tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yt1an/Curriculum-Tracker.git"
+  },
+  "license": "ISC",
+  "author": "Kristian Dela Torre",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
